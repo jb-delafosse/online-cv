@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       - idiom: French
@@ -48,7 +48,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Result-driven professional with multiple successful experiences
+      Result-driven person with multiple successful experiences
       in software development in fast-paced environments.
       Managing a data engineering team, working in cloud-based environment, 
       applying computer science in the chemical industry.
@@ -75,7 +75,7 @@ experiences:
         product : analytics dashboards, recommender systems. 
           - Python (Flask)  
           - Cloud Environment (GCP : Dataflow, IaaS on Kubernetes)
-          - SQL (BigQuery)
+          - SQL (PostgreSQL, BigQuery)
           - Bonus : ELT with DBT, Embedded Analytics with Looker
     - role: Data Engineer
       time: 2018 - 2019
@@ -86,7 +86,7 @@ experiences:
         of providing analytics dashboards
           - Python (Flask)
           - Cloud Environment (GCP : Dataflow, BigQuery)
-          - SQL (PostGreSQL & BigQuery)
+          - SQL (PostgreSQL & BigQuery)
     - role: Modelization Engineer
       time: 2013 - 2018
       company: Processium, Lyon
@@ -95,7 +95,7 @@ experiences:
         Designing methodologies to select a solvent, predicting
         chemical properties of chemicals and modeling phase equilibria
           - Python (scikit, theano, RDKit)
-          - Git
+          - git
           - Aspen Plus
 projects:
     title: Projects
@@ -126,7 +126,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Managing Tech team
+      - name: Managing a Tech team
         level: 90%
 
       - name: Python & Flask
