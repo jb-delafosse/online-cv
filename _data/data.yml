@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Result-driven professional with multiple successful experiences
+      Result-driven person with multiple successful experiences
       in software development in fast-paced environments.
       Managing a data engineering team, working in cloud-based environment, 
       applying computer science in the chemical industry.
@@ -73,39 +73,37 @@ education:
       university: Lycée Albert Chatelet
       time: 2007 - 2008
 experiences:
-    title: Experiences
-    info:
-      - role: Engineering Manager
-        time: 2020 - Present
-        company: Lumapps, Lyon
-        details: |
-          Management, product ownership (PSPO I certified), and dev in the Data team (4 pers.).
-          The team maintains the data pipelines and add new features to the
-          product : analytics dashboards, recommender systems. 
-            - Python (Flask)  
-            - Cloud Environment (GCP : Dataflow, IaaS on Kubernetes)
-            - SQL (BigQuery)
-            - Bonus : ELT with DBT, Embedded Analytics with Looker
-      - role: Data Engineer
-        time: 2018 - 2019
-        company: Lumapps, Lyon
-        details: |
-          Fast pace environment where I learned backend development and data engineering
-          in a SaaS product. I was assigned to the Analytics Team in charge
-          of providing analytics dashboards
-            - Python (Flask)
-            - Cloud Environment (GCP : Dataflow, BigQuery)
-            - SQL (PostGreSQL & BigQuery)
-      - role: Modelization Engineer
-        time: 2013 - 2018
-        company: Processium, Lyon
-        details: |
-          Modeling studies and machine learning in the Computer Science team.
-          Designing methodologies to select a solvent, predicting
-          chemical properties of chemicals and modeling phase equilibria
-            - Python (scikit, theano, RDKit)
-            - Git
-            - Aspen Plus
+    - role: Engineering Manager
+      time: 2020 - Present
+      company: Lumapps, Lyon
+      details: |
+        Management, product ownership (PSPO I certified), and dev in the Data team (4 pers.).
+        The team maintains the data pipelines and add new features to the
+        product : analytics dashboards, recommender systems. 
+          - Python (Flask)  
+          - Cloud Environment (GCP : Dataflow, IaaS on Kubernetes)
+          - SQL (PostGreSQL & BigQuery)
+          - Bonus : ELT with DBT, Embedded Analytics with Looker
+    - role: Data Engineer
+      time: 2018 - 2019
+      company: Lumapps, Lyon
+      details: |
+        Fast pace environment where I learned backend development and data engineering
+        in a SaaS product. I was assigned to the Analytics Team in charge
+        of providing analytics dashboards
+          - Python (Flask)
+          - Cloud Environment (GCP : Dataflow, BigQuery)
+          - SQL (PostGreSQL & BigQuery)
+    - role: Modelization Engineer
+      time: 2013 - 2018
+      company: Processium, Lyon
+      details: |
+        Modeling studies and machine learning in the Computer Science team.
+        Designing methodologies to select a solvent, predicting
+        chemical properties of chemicals and modeling phase equilibria
+          - Python (scikit, theano, RDKit)
+          - git
+          - Aspen Plus
 projects:
     title: Projects
     intro: >
@@ -135,7 +133,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Managing Tech team
+      - name: Managing a Tech team
         level: 90%
 
       - name: Python & Flask
