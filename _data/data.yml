@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf:
+    pdf: https://drive.google.com/file/d/1v34x6attxtaLlLT_FfMac8Q4ZOL4PTsz/view?usp=sharing
 
     languages:
       title: Languages
@@ -115,7 +115,7 @@ projects:
 
       - title: Linky Notes
         link: "https://github.com/jb-delafosse/linky-note"
-        tagline: "Side Project : a pre-commit to generate backlinks in markdown notes"
+        tagline: "Side Project : a pre-commit hook to generate backlinks in markdown notes"
 
       - title: Automatic Molecular Group Decomposition
         link: "https://github.com/jb-delafosse/thermodynamics"
