@@ -58,52 +58,54 @@ career-profile:
       Managing a data engineering team, working in cloud-based environment, 
       applying computer science in the chemical industry.
 education:
-  title: Education
-  info:
-    - degree: MSc in Engineering
-      university: Ecole Centrale de Lyon
-      time: 2009 - 2012
-      details: |
-        I've spent 2 years studying general engineering, that gave me 
-        a quick insight of the existing fields of engineering. I decided
-        to focus on Applied Mathematics 
-          - Computer Science
-          - Machine Learning
-    - degree: CPGE
-      university: Lycée Albert Chatelet
-      time: 2007 - 2008
+    title: Education
+    info:
+      - degree: MSc in Engineering
+        university: Ecole Centrale de Lyon
+        time: 2009 - 2012
+        details: |
+          I've spent 2 years studying general engineering, that gave me 
+          a quick insight of the existing fields of engineering. I decided
+          to focus on Applied Mathematics 
+            - Computer Science
+            - Machine Learning
+      - degree: CPGE
+        university: Lycée Albert Chatelet
+        time: 2007 - 2008
 experiences:
-    - role: Engineering Manager
-      time: 2020 - Present
-      company: Lumapps, Lyon
-      details: |
-        Management, product ownership (PSPO I certified), and dev in the Data team (4 pers.).
-        The team maintains the data pipelines and add new features to the
-        product : analytics dashboards, recommender systems. 
-          - Python (Flask)  
-          - Cloud Environment (GCP : Dataflow, IaaS on Kubernetes)
-          - SQL (PostGreSQL & BigQuery)
-          - Bonus : ELT with DBT, Embedded Analytics with Looker
-    - role: Data Engineer
-      time: 2018 - 2019
-      company: Lumapps, Lyon
-      details: |
-        Fast pace environment where I learned backend development and data engineering
-        in a SaaS product. I was assigned to the Analytics Team in charge
-        of providing analytics dashboards
-          - Python (Flask)
-          - Cloud Environment (GCP : Dataflow, BigQuery)
-          - SQL (PostGreSQL & BigQuery)
-    - role: Modelization Engineer
-      time: 2013 - 2018
-      company: Processium, Lyon
-      details: |
-        Modeling studies and machine learning in the Computer Science team.
-        Designing methodologies to select a solvent, predicting
-        chemical properties of chemicals and modeling phase equilibria
-          - Python (scikit, theano, RDKit)
-          - git
-          - Aspen Plus
+    title: Experiences
+    info:
+      - role: Engineering Manager
+        time: 2020 - Present
+        company: Lumapps, Lyon
+        details: |
+          Management, product ownership (PSPO I certified), and dev in the Data team (4 pers.).
+          The team maintains the data pipelines and add new features to the
+          product : analytics dashboards, recommender systems. 
+            - Python (Flask)  
+            - Cloud Environment (GCP : Dataflow, IaaS on Kubernetes)
+            - SQL (PostGreSQL & BigQuery)
+            - Bonus : ELT with DBT, Embedded Analytics with Looker
+      - role: Data Engineer
+        time: 2018 - 2019
+        company: Lumapps, Lyon
+        details: |
+          Fast pace environment where I learned backend development and data engineering
+          in a SaaS product. I was assigned to the Analytics Team in charge
+          of providing analytics dashboards
+            - Python (Flask)
+            - Cloud Environment (GCP : Dataflow, BigQuery)
+            - SQL (PostGreSQL & BigQuery)
+      - role: Modelization Engineer
+        time: 2013 - 2018
+        company: Processium, Lyon
+        details: |
+          Modeling studies and machine learning in the Computer Science team.
+          Designing methodologies to select a solvent, predicting
+          chemical properties of chemicals and modeling phase equilibria
+            - Python (scikit, theano, RDKit)
+            - git
+            - Aspen Plus
 projects:
     title: Projects
     intro: >
