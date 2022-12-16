@@ -79,7 +79,7 @@ experiences:
         time: 2020 - Present
         company: Lumapps, Lyon
         details: |
-          Management, product ownership (PSPO I certified), and dev in the Data team (4 pers.).
+          Management (up to 10 pers.), product ownership (PSPO I certified), and dev in the Data team.
           The team maintains the data pipelines and add new features to the
           product : analytics dashboards, recommender systems. 
             - Python (Flask)  
@@ -131,6 +131,10 @@ projects:
         link: "https://www.axelera.org/fr/actualite/Projet-DAMIER"
         tagline: "Predicting properties of Chemicals through machine-learning"
 
+      - title: Thermodynamics
+        link: "https://github.com/jb-delafosse/thermodynamics"
+        tagline: "Automated decomposition of molecules using group decomposition"
+
 skills:
     title: Skills &amp; Proficiency
 
@@ -146,6 +150,12 @@ skills:
 
       - name: Agile Methodology
         level: 80%
+
+      - name: Machine Learning
+        level: 50%
+
+      - name: Thermodynamics
+        level: 20%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
