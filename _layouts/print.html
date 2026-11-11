@@ -24,5 +24,10 @@
       <div class="main-wrapper">{{ content }}</div>
     </div>
     {% include scripts.html %}
+    <script>
+      if (window.location.hash === "#save") {
+        window.addEventListener("load", function () { window.print(); });
+      }
+    </script>
   </body>
 </html>

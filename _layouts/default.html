@@ -9,13 +9,9 @@
 {% include head.html %}
 
 <body>
-  <button onclick="print()" class="print-button d-print-none">
-    <i class="fas fa-file-pdf"></i>Print
-  </button>
-
-  <button onclick="generatePDF()" class="pdf-button d-print-none" id="pdfButton">
+  <a href="{{ site.baseurl }}/print#save" target="_blank" class="pdf-button d-print-none">
     <i class="fas fa-file-pdf"></i>PDF
-  </button>
+  </a>
 
   <div class="wrapper">
     {% include sidebar.html %}
@@ -28,7 +24,6 @@
   {% include footer.html %}
 
   {% include scripts.html %}
-  <script src="{{ site.baseurl }}/assets/js/pdf-generator.js"></script>
 </body>
 
 </html>
