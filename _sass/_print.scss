@@ -1,19 +1,13 @@
 @media print {
+  // A4 proportions scaled up so the printable width is 1000px, the desktop layout width.
   @page {
-    size: A4;
+    size: 292.6mm 413.8mm;
+    margin: 14mm;
   }
   body {
     font-size: 9pt;
     background-color: white;
     padding: 0;
-  }
-  @page {
-    margin: 10mm;
-  }
-
-  // Scale the page so the 190mm printable width lays out like a 1000px desktop screen.
-  html {
-    zoom: 0.718;
   }
 
   .wrapper {
@@ -22,7 +16,15 @@
   }
 
   .main-wrapper {
-    padding: 60px;
+    padding: 40px 60px 20px;
+
+    .section {
+      margin-bottom: 40px;
+    }
+
+    .section:last-child {
+      margin-bottom: 0;
+    }
   }
 
   //   img.avatar {
@@ -49,8 +51,6 @@
     display: none;
   }
 
-  .skillset,
-  .skills-section,
   .main-wrapper .item,
   .container-block {
     break-inside: avoid;
