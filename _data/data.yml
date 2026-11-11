@@ -74,20 +74,32 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Engineering Manager
-        time: 2020 - Present
-        company: Lumapps, Lyon
+      - role: Staff Engineer — AI & Data
+        time: 2025 - Present
+        company: LumApps, Lyon
         details: |
-          Management (up to 10 pers.), product ownership (PSPO I certified), and dev in the Data team.
-          The team maintains the data pipelines and add new features to the
-          product : analytics dashboards, recommender systems. 
-            - Python (Flask)  
-            - Cloud Environment (GCP : Dataflow, IaaS on Kubernetes)
-            - SQL (PostGreSQL & BigQuery)
-            - Bonus : ELT with DBT, Embedded Analytics with Looker
+          Back to hands-on engineering after five years of management; Staff Engineer since 2026.
+
+          - Co-led the design and build of LumApps' agentic platform (custom agents, tools, MCP, multi-agent hand-off)
+          - Pushed the adoption of the AG-UI protocol and its use to expose micro-apps as frontend tools for agents
+          - Helped shape the agent evaluation approach (evaluation suites, Langfuse tracing)
+          - Introduced spec-driven development with OpenSpec (specs, validation in CI, Jira sync)
+          - Built Learning-to-Rank tooling for enterprise search (Elasticsearch LTR, judgment lists)
+          - Kept contributing to the data platform (dbt, Looker, customer datalake)
+
+          Python, GCP, BigQuery, dbt, Elasticsearch, Google ADK, LLMs
+      - role: Engineering Manager — Data
+        time: 2020 - 2025
+        company: LumApps, Lyon
+        details: |
+          Managed the Data team (up to 10 people) and acted as its product owner (PSPO I).
+
+          - Analytics dashboards, recommender systems and data pipelines for the product
+          - Customer datalake offering and GDPR-compliant data deletion
+          - Internal BI stack (Meltano, dbt, Looker)
       - role: Data Engineer
         time: 2018 - 2019
-        company: Lumapps, Lyon
+        company: LumApps, Lyon
         details: |
           Fast pace environment where I learned backend development and data engineering
           in a SaaS product. I was assigned to the Analytics Team in charge
