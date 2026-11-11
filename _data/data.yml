@@ -150,23 +150,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Managing a Tech team
-        level: 90%
+      - name: AI & Agents
+        items: Google ADK, MCP, A2A, AG-UI, A2UI, LLM evaluation, Langfuse
 
-      - name: Python & Flask
-        level: 90%
+      - name: Data
+        items: BigQuery, dbt, Looker, Dataflow, Meltano, Elasticsearch
 
-      - name: Data Engineering
-        level: 80%
+      - name: Languages
+        items: Python, SQL
 
-      - name: Agile Methodology
-        level: 80%
+      - name: Cloud
+        items: GCP, Kubernetes, Datadog
 
-      - name: Machine Learning
-        level: 50%
-
-      - name: Thermodynamics
-        level: 20%
+      - name: Practices
+        items: Clean Architecture, spec-driven development, team management, product ownership (PSPO I)
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
