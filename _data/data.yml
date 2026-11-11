@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jean-Baptiste Delafosse
-    tagline: Engineering Manager Data
+    tagline: Staff Engineer — AI & Data
     avatar: me.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -52,10 +52,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Result-driven person with multiple successful experiences
-      in software development in fast-paced environments.
-      Managing a data engineering team, working in cloud-based environment, 
-      applying computer science in the chemical industry.
+      Staff Engineer at LumApps, co-leading the design of its AI agents platform.
+      Previously managed the Data team for five years, building the product's analytics,
+      recommendation and customer data features. Started in applied mathematics and
+      machine learning for the chemical industry.
 education:
     title: Education
     info:
