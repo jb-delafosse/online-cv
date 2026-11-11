@@ -7,8 +7,22 @@
     background-color: white;
     padding: 0;
   }
+  @page {
+    margin: 10mm;
+  }
+
+  // Scale the page so the 190mm printable width lays out like a 1000px desktop screen.
+  html {
+    zoom: 0.718;
+  }
+
   .wrapper {
+    display: grid;
     max-width: 100%;
+  }
+
+  .main-wrapper {
+    padding: 60px;
   }
 
   //   img.avatar {
@@ -16,9 +30,8 @@
   //     -webkit-filter: greyscale(1);
   //   }
   .main-wrapper .time {
-    padding: 10px 30px 10px 10px;
-    //  float: right;
-    //  color: black !important;
+    position: absolute;
+    margin-top: 0;
     -webkit-print-color-adjust: exact;
   }
   .sidebar-wrapper {
@@ -37,6 +50,8 @@
   }
 
   .skillset,
+  .skills-section,
+  .main-wrapper .item,
   .container-block {
     break-inside: avoid;
   }
