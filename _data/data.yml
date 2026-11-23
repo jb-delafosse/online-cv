@@ -101,23 +101,20 @@ experiences:
         time: 2018 - 2019
         company: LumApps, Lyon
         details: |
-          Fast pace environment where I learned backend development and data engineering
-          in a SaaS product. I was assigned to the Analytics Team in charge
-          of providing analytics dashboards
-            - Python (Flask)
-            - Cloud Environment (GCP : Dataflow, BigQuery)
-            - SQL (PostGreSQL & BigQuery)
+          Joined the Analytics team as a backend and data engineer.
+
+          - Built data pipelines and APIs behind the product's analytics dashboards
+          - Python (Flask), GCP (Dataflow, BigQuery), SQL
       - role: Modelization Engineer
         time: 2013 - 2018
         company: Processium, Lyon
         details: |
-          Modeling studies and machine learning in the Computer Science team.
-          Designing methodologies to select a solvent, predicting
-          chemical properties of chemicals and modeling phase equilibria
-          (one solvent selection study led to a [patent](https://patents.google.com/patent/WO2017167914A1)).
-            - Python (scikit, theano, RDKit)
-            - git
-            - Aspen Plus
+          Modeling studies and machine learning for the chemical industry.
+
+          - Designed solvent selection methodologies; one study led to a [patent](https://patents.google.com/patent/WO2017167914A1)
+          - Predicted chemical properties with machine learning and modeled phase equilibria
+          - Python (scikit-learn, Theano, RDKit), Aspen Plus
+
 skills:
     title: Skills &amp; Proficiency
 
